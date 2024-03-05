@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-udemy-animals/static/css/main.ae9ad288.css",
+    "main.js": "/react-udemy-animals/static/js/main.555116db.js",
+    "static/media/dog.svg": "/react-udemy-animals/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
+    "static/media/cat.svg": "/react-udemy-animals/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
+    "static/media/gator.svg": "/react-udemy-animals/static/media/gator.9035accbd534fc488eb1fb531c9e767b.svg",
+    "static/media/cow.svg": "/react-udemy-animals/static/media/cow.caef99ab8c0fd06c78cc0fac328dda37.svg",
+    "static/media/bird.svg": "/react-udemy-animals/static/media/bird.224782d1579a91d795d0027d8f070b4b.svg",
+    "static/media/horse.svg": "/react-udemy-animals/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
+    "index.html": "/react-udemy-animals/index.html",
+    "static/media/heart.svg": "/react-udemy-animals/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
+    "main.ae9ad288.css.map": "/react-udemy-animals/static/css/main.ae9ad288.css.map",
+    "main.555116db.js.map": "/react-udemy-animals/static/js/main.555116db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9ad288.css",
+    "static/js/main.555116db.js"
+  ]
+}
